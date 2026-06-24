@@ -1,6 +1,4 @@
-// ! Bu araç @ByAyzen tarafından | @Cs-GizliKeyif için yazılmıştır.
-
-package com.byayzen
+package com.cloudstream-adult
 
 import com.lagradost.api.Log
 import com.lagradost.cloudstream3.*
