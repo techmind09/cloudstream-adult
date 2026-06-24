@@ -1,0 +1,9 @@
+{
+  "iconUrl": "https://raw.githubusercontent.com/techmind09/cloudstream-adult/refs/heads/master/.github/logo/gizlikeyif.png",
+  "name": "Cloudstream-adult +18 | @techmind09",
+  "description": "+18 Repo",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/techmind09/cloudstream-adult/refs/heads/builds/plugins.json"
+  ]
+}
